@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\source\\wanli_gasmonitoreditor\\private\\swanligasmonitorwidget.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\intermediate\\build\\win64\\x64\\qinfluencer_ats_clone_10_12editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wanli_gasmonitoreditor\\definitions.wanli_gasmonitoreditor.h",
+            "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\source\\wanli_gasmonitoreditor\\public\\swanligasmonitorwidget.h",
+            "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\source\\wanli_gasmonitor\\public\\wanligasmonitortypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

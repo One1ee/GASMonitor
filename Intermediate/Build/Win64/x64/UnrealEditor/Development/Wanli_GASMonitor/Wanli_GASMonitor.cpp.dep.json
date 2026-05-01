@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\source\\wanli_gasmonitor\\private\\wanli_gasmonitor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\intermediate\\build\\win64\\x64\\qinfluencer_ats_clone_10_12editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wanli_gasmonitor\\definitions.wanli_gasmonitor.h",
+            "c:\\users\\lukeo\\documents\\unreal projects\\sekiro_ats_uaf_gas\\plugins\\wanli_gasmonitor\\source\\wanli_gasmonitor\\public\\wanli_gasmonitor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

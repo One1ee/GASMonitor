@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"Wanli_GASMonitor": "UnrealEditor-Wanli_GASMonitor.dll",
+		"Wanli_GASMonitorEditor": "UnrealEditor-Wanli_GASMonitorEditor.dll"
+	}
+}

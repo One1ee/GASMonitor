@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Wanli_GASMonitor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/lukeo/Documents/Unreal Projects/Sekiro_ATS_UAF_GAS/Intermediate/Build/Win64/x64/Qinfluencer_ATS_Clone_10_12Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/lukeo/Documents/Unreal Projects/Sekiro_ATS_UAF_GAS/Plugins/Wanli_GASMonitor/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wanli_GASMonitor/Wanli_GASMonitor.cpp.obj"
+"C:/Users/lukeo/Documents/Unreal Projects/Sekiro_ATS_UAF_GAS/Plugins/Wanli_GASMonitor/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wanli_GASMonitor/PerModuleInline.gen.cpp.obj"
+"C:/Users/lukeo/Documents/Unreal Projects/Sekiro_ATS_UAF_GAS/Plugins/Wanli_GASMonitor/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wanli_GASMonitor/Default.rc2.res"
+/OUT:"C:/Users/lukeo/Documents/Unreal Projects/Sekiro_ATS_UAF_GAS/Plugins/Wanli_GASMonitor/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wanli_GASMonitor/UnrealEditor-Wanli_GASMonitor.lib"
